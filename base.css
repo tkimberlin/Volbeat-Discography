@@ -1,0 +1,121 @@
+html {
+    color: #fff;
+}
+
+body {
+    background: url(../images/volbeat.jpg) fixed no-repeat;
+    font-family: 'Abel', sans-serif;
+}
+
+ul li {
+    list-style: none;
+}
+
+nav {
+    color: #000;
+}
+
+h1 {
+    background: #A89661;
+    box-shadow: 10px 10px 10px #000;
+    color: #000;
+    font-family: 'Vidaloka', serif;
+    padding: 1% 1% 1% 3%;
+    width: 300px;
+}
+
+h2 {
+    font-family: 'Lalezar', cursive;
+}
+
+p {
+    font-size: 1.3em;
+    padding: 3%;
+}
+
+.bio {
+    font-size: 1.25em;
+}
+
+.btn {
+    border-radius: 30px;
+    color: #616978;
+    height: 75px;
+    width: 150px;
+    font-size: 1.5em;
+    box-shadow: 5px 5px 5px #000;
+}
+
+.members {
+    border-radius: 700px;
+    height: 100%;
+    width: 100%;
+}
+
+.music {
+    height: 100%;
+    width: 100%;
+}
+
+.sign {
+    color: #000;
+    background-color: #616978;
+    padding: 5%;
+    font-size: 1.25em;
+}
+
+.source {
+    font-size: 2em;
+}
+
+.source a {
+    color: #fff;
+}
+
+.source a:hover {
+    background-color: #616978;
+}
+
+.logo {
+    float: left;
+}
+
+nav {
+    text-align: center;
+    background-color: #FFF;
+    position: relative;
+    top: 0;
+    width: 100%;
+}
+
+nav a {
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+nav a:hover {
+    background-color: #616978
+}
+
+.footer {
+    text-align: center;
+}
+
+.images {
+    float: right;
+    position: relative;
+}
+
+.terms {
+    float: right;
+    background: #616978;
+    padding: 10%;
+    font-size: 1.25em;
+}
+
+a {
+    color: #000;
+}
